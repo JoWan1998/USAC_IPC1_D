@@ -18,8 +18,8 @@
 | short | Entero | 16 bits | -32768 a 32767 |
 | int | Entero | 32 bits | -2147483648 a 2147483647 |
 | long | Entero | 64 bits | -2147483648 a 2147483647 |
-| float | Decimal | 32 bits | ^+-^3.40282347 x 10^38^ a ^+-^1.40239846 x 10^-45^|
-| double | Decimal | 64 bits | ^+-^1.79769313 x 10^308^ a ^+-^4.9406564 x 10^-324^  |
+| float | Decimal | 32 bits | +/- 3.40282347 x 10^38 a +/- 1.40239846 x 10^-45|
+| double | Decimal | 64 bits | +/- 1.79769313 x 10^308 a +/- 4.9406564 x 10^-324  |
 | char | Caracter Simple | 16 bits | ----------- |
 | boolean | Valor (True o False) | 1 bits | ----------- |
 
@@ -28,7 +28,7 @@
 
 Nombre definido para denotar un elemento, es decir es la forma de ubicar un valor dentro del programa.
 
->[!TIP]
+>
 >
 >Es recomendable utilizar lenguaje global para definir nuestras variables (**Ingles**)
 
@@ -170,7 +170,7 @@ Indican las reglas de asociación para la ejecución de operaciones hibridas que
 
 ## PALABRAS RESERVADAS
 
->[!TIP]
+>
 >
 > Puedes visitar el siguiente link para más información [JAVA](https://www.ciberaula.com/cursos/java/palabras_reservadas_java.php)
 
