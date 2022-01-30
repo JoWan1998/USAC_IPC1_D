@@ -172,7 +172,7 @@ Indican las reglas de asociación para la ejecución de operaciones hibridas que
 
 >[!TIP]
 >
-> Puedes visitar el siguiente link para más información [JAVA] (https://www.ciberaula.com/cursos/java/palabras_reservadas_java.php)
+> Puedes visitar el siguiente link para más información [JAVA](https://www.ciberaula.com/cursos/java/palabras_reservadas_java.php)
 
  - abstract	
  - assert	
