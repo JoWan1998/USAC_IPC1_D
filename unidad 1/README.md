@@ -1,14 +1,13 @@
 # UNIDAD 1
 
-- [Unidad 1] (#unidad-1)
-  - [Tipos de Datos] (#tipos-de-datos)
-  - [Identificadores] (#identificadores)
-    - [Reglas para definir Identificadores] (#reglas)
-  - [Operadores] (#operadores)
-    - [Tipos de Operadores] (#tipos-de-operadores)
-    - [Precedencia de Operadores] (#precedencia-de-operadores)
+- [Unidad 1](#unidad-1)
+  - [Tipos de Datos](#tipos-de-datos)
+  - [Identificadores](#identificadores)
+    - [Reglas para definir Identificadores](#reglas)
+  - [Operadores](#operadores)
+    - [Tipos de Operadores](#tipos-de-operadores)
+    - [Precedencia de Operadores](#precedencia-de-operadores)
   - [Palabras Reservadas] (#palabras-reservadas)
-  - [Presentación](../unidad 1/PRESENTACIONES/Introducción a la Programación y Computación 1 - Unidad 2.pdf)
 
 
 ## TIPOS DE DATOS
