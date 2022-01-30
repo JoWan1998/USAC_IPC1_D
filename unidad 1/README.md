@@ -7,7 +7,7 @@
   - [Operadores](#operadores)
     - [Tipos de Operadores](#tipos-de-operadores)
     - [Precedencia de Operadores](#precedencia-de-operadores)
-  - [Palabras Reservadas] (#palabras-reservadas)
+  - [Palabras Reservadas](#palabras-reservadas)
 
 
 ## TIPOS DE DATOS
