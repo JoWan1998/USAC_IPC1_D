@@ -28,7 +28,7 @@
 
 Nombre definido para denotar un elemento, es decir es la forma de ubicar un valor dentro del programa.
 
->
+>![TIP]
 >
 >Es recomendable utilizar lenguaje global para definir nuestras variables (**Ingles**)
 
