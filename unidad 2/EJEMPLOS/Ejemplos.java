@@ -58,11 +58,11 @@ public class Ejemplos {
 		}
 		
 		
-		int arreglo = [0,1,2,3,4,5,6,7,8,9];
+		int[] arreglo = {0,1,2,3,4,5,6,7,8,9};
 		//Se ejecutara recorriendo todos los espacios del arreglo, es decir el tamaño del arreglo
-		for(int valor: arreglo)
+		for(int value: arreglo)
 		{
-			System.out.println(valor);
+			System.out.println(value);
 		}
 		
 		boolean condicion = true;
